@@ -1,0 +1,6 @@
+{
+  "name": "Recibo & Calculadora Vistoria",
+  "description": "Aplicativo de vistoria diária com campos dinâmicos, recibos, calculadora de engenharia civil e agenda de reuniões.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
